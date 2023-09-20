@@ -6,10 +6,10 @@ This project is done under The Spark Foundation's Graduate Rotational Internship
 
 ## Table of Contents
 
-Prerequisites
-Dataset
-Implementation
-Results
+Prerequisites, 
+Dataset, 
+Implementation, 
+Results.
 
 ## Prerequisites
 
